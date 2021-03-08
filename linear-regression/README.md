@@ -1,1 +1,1 @@
-this folder contains the manual implementation of linear regression
+This Folder contains the manual implementation of linear regression
